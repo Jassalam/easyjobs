@@ -9,7 +9,7 @@ export default function Header() {
       <nav className="flex items-center gap-8 text-gray-500 font-semibold">
         <Link href={'/'}>Home</Link>
         <Link href={''}>Agency</Link>
-        <Link href={''}>Developer</Link>
+        <Link href={'/jobs'}>For Talent</Link>
         <Link href={''}>About us</Link>
         <Link href={''}>Contact Us</Link>
       </nav>

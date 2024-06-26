@@ -8,7 +8,7 @@ export default function Header() {
       </Link>
       <nav className="flex items-center gap-8 text-gray-500 font-semibold">
         <Link href={'/'}>Home</Link>
-        <Link href={''}>Agency</Link>
+        <Link href={''}>For Companies</Link>
         <Link href={'/jobs'}>For Talent</Link>
         <Link href={''}>About us</Link>
         <Link href={''}>Contact Us</Link>
